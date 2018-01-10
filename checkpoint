@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kpranav1998/PycharmProjects/gesture_recognizer/model.ckpt"
+all_model_checkpoint_paths: "/home/kpranav1998/PycharmProjects/gesture_recognizer/model.ckpt"
