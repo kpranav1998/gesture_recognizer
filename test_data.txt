@@ -1,7 +1,6 @@
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/ssstop1.png 4
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/pppunch1.png 3
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/nnnothing249.png 1
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/iiiok1.png 0
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/pppeace301.png 2
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/3_gray.jpg 4
-/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgs/qpreyaa_gray4.jpg  2
+/home/kpranav1998/PycharmProjects/gesture_recognizer/imgs/pppeace301.png 2
+/home/kpranav1998/PycharmProjects/gesture_recognizer/imgs/ssstop1.png 4
+/home/kpranav1998/PycharmProjects/gesture_recognizer/imgs/pppunch1.png 3
+/home/kpranav1998/PycharmProjects/gesture_recognizer/imgs/iiiok1.png 0
+/home/kpranav1998/PycharmProjects/gesture_recognizer/imgs/nnnothing249.png 1
+/home/kpranav1998/PycharmProjects/gesture_recognizer/imgs/test.jpg 4

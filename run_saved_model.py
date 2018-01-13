@@ -38,7 +38,6 @@ with tf.Session() as sess:
 
 
     ans = sess.run(y_predicted, feed_dict={x: x_test, y: y_test})
-    print(ans)
     ans2 = np.argmax(ans, 1)
 
     answer = np.reshape(ans2, newshape=[len(x_test), 1])

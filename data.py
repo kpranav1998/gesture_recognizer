@@ -13,7 +13,7 @@ from tflearn.data_utils import image_preloader
 from tqdm import tqdm
 import math
 
-TRAIN_DATA='/home/kpranav1998/PycharmProjects/gesture_recognizer/CNNGestureRecognizer-master/imgfolder_b/'
+TRAIN_DATA='/home/kpranav1998/PycharmProjects/gesture_recognizer/imgfolder_b/'
 
 fr = open('train_data.txt', 'w')
 files=[]
