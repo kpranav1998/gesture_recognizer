@@ -6,9 +6,16 @@ The project is written in tensorflow,opencv,numpy and some python modules
 
 CONTENTS
 main.py:this file contains the model for training
+
 run_saved_model.py:this file contains the pretrained model
+
 test_data.txt:contains the test images
+
 train_data.txt:contains the training images
+
+live_feed.py: Recognizes the live feed from camera
+
+
 
 
 PROCESS
